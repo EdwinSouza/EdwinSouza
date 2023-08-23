@@ -1,4 +1,4 @@
-namespace backend.entidades
+ namespace backend.entidades
 {
     public class CarritoCompra : Common
     {
